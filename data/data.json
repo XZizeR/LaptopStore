@@ -1,0 +1,72 @@
+[{
+        "id": "0",
+        "productName": "Microsoft Surface 3",
+        "image": "microsoft-surface-3.jpg",
+        "cpu": "Intel® Core™ i5 10th Gen",
+        "gpu": "Intel Iris Plus Graphics",
+        "ram": "8GB",
+        "storage": "128GB SSD",
+        "screen": "13.5-inch",
+        "price": "5495",
+        "kg": "1.54",
+        "description": "סורפייס לפטופ 3 זמין בשלושה צבעים שונים ובגודל מסך של 13 ו-15 אינטש. קשה שלא להתלהב מיצירת המופת מבית מיקרוסופט שמספקת עיצוב וגם ביצועים ללא פשרות. ל-Surface Laptop 3 יש מסך מגע מרהיב. הוא מגיע עם מעבדים מסוג i5 ו-i7 ובנפח זכרון ראם של עד 32 ג׳יגה. בדור הנוכחי של המוצר המחשבים מגיעים עם חיבור type-C המאפשר לחבר למחשב מגוון רחב של התקנים. השילוב המושלם בין חומרה לתוכנה הופך את הסורפייס לפטופ 3 לכלי של שלמות לאלו המחפשים חוויית פרימיום בסביבה מיקרוסופטית.",
+        "source": "https://www.adcs.co.il/microsoft-surface-laptop-3-13-inch-128gb-i5-8gb-platinum-pkh-00001.html"
+
+    },
+    {
+        "id": "1",
+        "productName": "Apple MacBook Pro 2019",
+        "image": "apple-macbook-pro-2019.jpg",
+        "cpu": "Intel Core i5, 8th generation",
+        "gpu": "Intel Iris Plus Graphics 655",
+        "ram": "8GB",
+        "storage": "512GB SSD",
+        "screen": "13.3-inch Retina display",
+        "price": "8148",
+        "kg": "1.37",
+        "description": "מחשב נייד מבית Apple בעל מעבד i5, זכרון בנפח 8GB, כונן קשיח מהיר בנפח 512GB SSD, מסך ''13.3 Retina, מאיץ גרפי Intel Iris Plus Graphics 655, מקלדת מוארת ו-Touch Bar.",
+        "source": "https://www.bug.co.il/brand/apple/color/gray/macbookpro/13/touch-bar/i5-/512gb/"
+    },
+    {
+        "id": "2",
+        "productName": "ACER SPIN 3",
+        "image": "acer-spin-3.jpg",
+        "cpu": "Intel® Core™ i3, 10th generation",
+        "gpu": "Intel® UHD Graphics 620",
+        "ram": "8 GB",
+        "storage": "256GB PCIe NVMe SSD",
+        "screen": "14 FHD (1920 x 1080) Touch",
+        "price": "3490",
+        "kg": "1.7",
+        "description": "יצרן: Acer , סוג מוצר: מחשב נייד , דגם מעבד: 10th Generation Intel Core i3-1005G1 Processor (4MB Cache, up to 3.4 GHz))  , נפח זכרון פנימי: 8GB , נפח אחסון: SSD 256GB , גודל מסך:14 FHD 1920*1080 , דגם כרטיס מסך: Intel® UHD Graphics 620, מערכת הפעלה: Windows 10 Home.",
+        "source": "https://www.pc-online.co.il/single_product.php?ps=17967"
+    },
+    {
+        "id": "3",
+        "productName": "Asus Zenbook 13",
+        "image": "asus-zenbook-13.jpeg",
+        "cpu": "Intel® Core™ i7-1065G7",
+        "gpu": "Intel® Iris® Plus Graphics",
+        "ram": "16GB",
+        "storage": "1TB SSD",
+        "screen": "13.3 Inch Full HD",
+        "price": "4941",
+        "kg": "1.11",
+        "description": "ZenBook 13 עומד בדרישות של סטנדרט צבאי לאמינות ולעמידות, MIL-STD-810G, ועובר שורה של בדיקות קפדניות של תפעול בתנאים קיצוניים לרבות גובה, טמפרטורה ולחות, לאורך זמן ממושך. כמו כן, הלפטופ עובר מבדק איכות פנימי של ASUS אשר גם הוא דרשני הרבה יותר לעומת המבדקים הסטנדרטיים בתעשייה.",
+        "source": "https://ksp.co.il/?ref=mobileToDesktop&uin=109261"
+    },
+    {
+        "id": "4",
+        "productName": "Dell XPS 15",
+        "image": "dell-xps-15.jpg",
+        "cpu": "Intel® Quad Core™ i5-8305G",
+        "gpu": "Radeon RX Vega 870",
+        "ram": "8GB",
+        "storage": "256GB SSD",
+        "screen": "15.6\" touch",
+        "price": "9578",
+        "kg": "2",
+        "description": "מחשב נייד מבית Dell בעל מעבד Intel core i5-8305G, זיכרון בנפח 8GB, כונן קשיח בנפח 256GB SSD, מסך מגע \"15.6 ברזולוציית 1920x1080 ומאיץ גרפי Radeon(TM) RX Vega 870.",
+        "source": "https://www.bug.co.il/brand/dell/color/silver/xps/15/9575/i5"
+    }
+]
