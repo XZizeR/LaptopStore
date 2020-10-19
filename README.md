@@ -1,4 +1,4 @@
-# THE LAPTOP STORE Summary
+# THE LAPTOP STORE
 In this project, you can create a catalog of laptops and see all of
 them in an overview template  (/products) or in detail in a laptop
 template (/laptop?id=laptop_id_number).
